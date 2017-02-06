@@ -18,3 +18,5 @@
 * [Can I Go Home?](https://paigemarie12.github.io/iwannagohome/)
 * [JFDMSB](https://masondo.github.io/appropriate/)
 * [Real Me](https://bonninelson.github.io/Bonni-Nelson/)
+* [Blackbear](https://karachristine.github.io/verbatim/)
+* [Wonsomescholar](https://dominicpelliccio.github.io/wonsomescholar/)
